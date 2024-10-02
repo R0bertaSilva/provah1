@@ -1,0 +1,7 @@
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\prova01_10_H1\prova01_10_H1\obj\Debug\net6.0\prova01_10_H1.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\prova01_10_H1\prova01_10_H1\obj\Debug\net6.0\prova01_10_H1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\prova01_10_H1\prova01_10_H1\obj\Debug\net6.0\prova01_10_H1.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\prova01_10_H1\prova01_10_H1\obj\Debug\net6.0\prova01_10_H1.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\prova01_10_H1\prova01_10_H1\obj\Debug\net6.0\prova01_10_H1.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\prova01_10_H1\prova01_10_H1\obj\Debug\net6.0\prova01_10_H1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\prova01_10_H1\prova01_10_H1\obj\Debug\net6.0\prova01_10_H1.MvcApplicationPartsAssemblyInfo.cache
